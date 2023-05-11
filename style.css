@@ -1,0 +1,29 @@
+.rowfirst{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.container{
+    background-color: rgb(255, 6, 60);
+background-color: rgb(117, 123, 128);
+    width: 500px;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+button{
+    width: 80px;
+    height: 80px;
+    margin: 3px;
+}
+
+.text{
+    background-color: rgb(231, 211, 211);
+    height: 100px;
+    width:500px;  
+    text-align: right;
+}
